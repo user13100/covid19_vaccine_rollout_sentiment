@@ -1,2 +1,4 @@
 # covid19_vaccine_rollout_sentiment
-Covid-19 Vaccination rollout &amp; sentiment analysis of vaccination process using Tweepy for collecting tweets to conduct Sentiment Analysis using NLP
+## Table of Content
+- covid19_sentiment.ipynb - Jupyter notebook source file containing code and executables
+- covid19_sentiment.pdf - Report PDF extracted from same notebook
